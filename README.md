@@ -16,4 +16,4 @@ José Aviani (jose.aviani@gmail.com)
 
 ### TP2: terminado ###
 
-### TP3: pendiente ###
+### TP3: terminado ###
